@@ -16,6 +16,7 @@ df_1.createOrReplaceTempView('Temp_Table_1')
 
 # MAGIC %sql
 # MAGIC Select * from Temp_Table_1
+# MAGIC
 
 # COMMAND ----------
 
